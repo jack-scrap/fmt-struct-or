@@ -1,6 +1,6 @@
 CC=gcc
 
-EXEC=a.out
+EXEC=or
 
 BUILDDIR=build
 
